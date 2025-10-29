@@ -15,3 +15,8 @@ node_modules/
 ## Release files
 release
 *.zip
+
+shopify.theme.toml
+node_modules/
+.vscode/
+
